@@ -1,0 +1,2 @@
+module MinicmsHelper
+end
